@@ -8,5 +8,5 @@ https://euler.jakumo.org/ <br><br>
 
 
 В общем и целом это ресурс с задачами ) <br>
-Отличается от LeetCode https://leetcode.com/ или Codewars https://www.codewars.com/ большей направленность на чистую математику. <br>
+Отличается от LeetCode https://leetcode.com/ или Codewars https://www.codewars.com/ большей направленностью на чистую математику. <br>
 По правилам решениями на первые сто задач можно делиться за пределами Project Euler.
